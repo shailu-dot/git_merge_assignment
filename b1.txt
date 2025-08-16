@@ -1,2 +1,6 @@
+
 b1.txt modified
+
+
+b1 committed
 
